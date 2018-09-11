@@ -1,4 +1,0 @@
-/Users/connoryukna/Projects/Basics/Basics/obj/Debug/netcoreapp2.1/Basics.csprojAssemblyReference.cache
-/Users/connoryukna/Projects/Basics/Basics/obj/Debug/netcoreapp2.1/Basics.csproj.CoreCompileInputs.cache
-/Users/connoryukna/Projects/Basics/Basics/obj/Debug/netcoreapp2.1/Basics.AssemblyInfoInputs.cache
-/Users/connoryukna/Projects/Basics/Basics/obj/Debug/netcoreapp2.1/Basics.AssemblyInfo.cs
